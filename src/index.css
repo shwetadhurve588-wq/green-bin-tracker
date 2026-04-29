@@ -8,35 +8,46 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    --background: 152 42% 96%;
+    --foreground: 164 38% 9%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    --card: 150 30% 99%;
+    --card-foreground: 164 38% 9%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
+    --popover: 150 30% 99%;
+    --popover-foreground: 164 38% 9%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    --primary: 151 72% 27%;
+    --primary-foreground: 145 48% 96%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 166 34% 88%;
+    --secondary-foreground: 164 38% 13%;
 
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    --muted: 150 22% 91%;
+    --muted-foreground: 164 14% 38%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 78 78% 48%;
+    --accent-foreground: 164 38% 9%;
 
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 40% 98%;
+    --destructive: 7 75% 50%;
+    --destructive-foreground: 145 48% 96%;
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --border: 154 24% 82%;
+    --input: 154 24% 82%;
+    --ring: 151 72% 27%;
 
     --radius: 0.5rem;
+    --success: 145 66% 35%;
+    --warning: 43 96% 50%;
+    --danger: 7 75% 50%;
+    --surface-deep: 163 49% 12%;
+    --surface-leaf: 151 72% 27%;
+    --surface-mist: 150 41% 93%;
+    --map-water: 177 45% 81%;
+    --gradient-hero: linear-gradient(135deg, hsl(164 48% 10%) 0%, hsl(151 72% 25%) 54%, hsl(78 78% 45%) 130%);
+    --gradient-panel: linear-gradient(180deg, hsl(var(--card) / 0.94), hsl(150 38% 96% / 0.88));
+    --shadow-command: 0 28px 80px -36px hsl(164 48% 10% / 0.45);
+    --shadow-soft: 0 16px 40px -28px hsl(151 72% 20% / 0.5);
 
     --sidebar-background: 0 0% 98%;
 
@@ -101,5 +112,50 @@ All colors MUST be HSL.
 
   body {
     @apply bg-background text-foreground;
+    font-family: "Aptos", "Segoe UI", system-ui, sans-serif;
+    letter-spacing: 0;
   }
+
+  h1, h2, h3 {
+    font-family: "Sora", "Aptos", "Segoe UI", system-ui, sans-serif;
+    letter-spacing: 0;
+  }
+}
+
+@layer utilities {
+  .bg-hero-gradient {
+    background: var(--gradient-hero);
+  }
+
+  .bg-panel-gradient {
+    background: var(--gradient-panel);
+  }
+
+  .shadow-command {
+    box-shadow: var(--shadow-command);
+  }
+
+  .shadow-soft {
+    box-shadow: var(--shadow-soft);
+  }
+
+  .grid-field {
+    background-image: linear-gradient(hsl(var(--primary) / 0.12) 1px, transparent 1px), linear-gradient(90deg, hsl(var(--primary) / 0.12) 1px, transparent 1px);
+    background-size: 44px 44px;
+  }
+
+  .scan-line {
+    animation: scan-line 5.5s ease-in-out infinite;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .scan-line {
+      animation: none;
+    }
+  }
+}
+
+@keyframes scan-line {
+  0%, 100% { transform: translateY(-8%); opacity: 0.25; }
+  50% { transform: translateY(108%); opacity: 0.55; }
 }
