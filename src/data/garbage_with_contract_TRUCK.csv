@@ -1,0 +1,151 @@
+Bin_ID,Zone,Ward,Latitude,Longitude,Fill_Level_Percentage,Status,Waste_Type,Battery_Level_Percentage,Last_Collection_Timestamp,Contract_Agency,Contract_Duration,Collection_Charges_Rs_per_MT,Garbage_Collected_Tons,Ward_Total_Collection_Done_Tons
+NAG-BIN-1001,Laxmi Nagar,59,21.12833,79.06782,85,Warning,Organic,46,2026-04-23 11:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.425,0.42
+NAG-BIN-1002,Laxmi Nagar,62,21.12611,79.06471,18,Normal,Mixed,72,2026-04-24 06:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.09,1.07
+NAG-BIN-1003,Laxmi Nagar,32,21.11103,79.06432,17,Normal,Metal,68,2026-04-22 15:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.085,0.55
+NAG-BIN-1004,Laxmi Nagar,30,21.12862,79.05505,84,Warning,Mixed,88,2026-04-23 09:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.42,1.84
+NAG-BIN-1005,Laxmi Nagar,35,21.11117,79.06235,68,Warning,Metal,91,2026-04-22 13:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.34,0.94
+NAG-BIN-1006,Laxmi Nagar,40,21.12961,79.0598,47,Normal,Paper,84,2026-04-22 11:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.235,0.24
+NAG-BIN-1007,Laxmi Nagar,1,21.12444,79.05193,94,Critical,Plastic,59,2026-04-22 18:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.47,1.42
+NAG-BIN-1008,Laxmi Nagar,65,21.11989,79.06515,68,Warning,Paper,57,2026-04-22 23:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.34,2.14
+NAG-BIN-1009,Laxmi Nagar,44,21.11909,79.05948,23,Normal,Organic,27,2026-04-24 06:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.115,1.16
+NAG-BIN-1010,Laxmi Nagar,53,21.12199,79.06496,39,Normal,Plastic,56,2026-04-24 02:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.195,0.69
+NAG-BIN-1011,Laxmi Nagar,32,21.11672,79.06046,93,Critical,Mixed,44,2026-04-24 08:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.465,0.55
+NAG-BIN-1012,Laxmi Nagar,38,21.11243,79.05485,37,Normal,Paper,37,2026-04-23 11:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.185,0.33
+NAG-BIN-1013,Laxmi Nagar,28,21.12069,79.06367,41,Normal,Plastic,19,2026-04-22 14:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.205,0.34
+NAG-BIN-1014,Laxmi Nagar,48,21.11453,79.06959,54,Normal,Mixed,78,2026-04-23 08:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.27,0.74
+NAG-BIN-1015,Laxmi Nagar,14,21.11155,79.0551,48,Normal,Plastic,83,2026-04-24 09:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.24,1.14
+NAG-BIN-1016,Dharampeth,19,21.14993,79.05484,11,Normal,Paper,57,2026-04-23 13:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.055,0.8
+NAG-BIN-1017,Dharampeth,66,21.13489,79.05623,24,Normal,Plastic,90,2026-04-23 12:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.12,0.41
+NAG-BIN-1018,Dharampeth,70,21.14841,79.06408,40,Normal,Metal,64,2026-04-22 23:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.2,1.16
+NAG-BIN-1019,Dharampeth,60,21.14796,79.06365,50,Normal,Plastic,55,2026-04-24 04:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.25,1.12
+NAG-BIN-1020,Dharampeth,33,21.13239,79.05684,82,Warning,Organic,43,2026-04-22 20:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.41,1.05
+NAG-BIN-1021,Dharampeth,49,21.13207,79.06988,96,Critical,Mixed,43,2026-04-23 23:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.48,1.21
+NAG-BIN-1022,Dharampeth,31,21.14759,79.05041,30,Normal,Metal,81,2026-04-22 20:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.15,0.38
+NAG-BIN-1023,Dharampeth,71,21.13699,79.06713,66,Warning,Mixed,29,2026-04-23 19:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.33,0.78
+NAG-BIN-1024,Dharampeth,74,21.14627,79.05535,18,Normal,Paper,36,2026-04-23 13:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.09,0.46
+NAG-BIN-1025,Dharampeth,52,21.13944,79.0597,65,Warning,Organic,22,2026-04-23 19:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.325,1.33
+NAG-BIN-1026,Dharampeth,56,21.13965,79.05237,73,Warning,Organic,63,2026-04-24 04:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.365,0.93
+NAG-BIN-1027,Dharampeth,33,21.13508,79.05927,80,Warning,Metal,50,2026-04-24 01:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.4,1.05
+NAG-BIN-1028,Dharampeth,23,21.13796,79.06145,78,Warning,Organic,53,2026-04-22 22:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.39,0.39
+NAG-BIN-1029,Dharampeth,20,21.13534,79.05734,42,Normal,Organic,41,2026-04-23 00:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.21,0.21
+NAG-BIN-1030,Dharampeth,44,21.14358,79.05684,24,Normal,Plastic,27,2026-04-23 09:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.12,1.16
+NAG-BIN-1031,Hanuman Nagar,33,21.11567,79.09215,21,Normal,Metal,30,2026-04-24 06:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.105,1.05
+NAG-BIN-1032,Hanuman Nagar,61,21.11519,79.08656,18,Normal,Metal,15,2026-04-22 20:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.09,0.31
+NAG-BIN-1033,Hanuman Nagar,56,21.11428,79.09387,66,Warning,Paper,92,2026-04-22 15:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.33,0.93
+NAG-BIN-1034,Hanuman Nagar,1,21.11428,79.08699,94,Critical,Mixed,24,2026-04-23 20:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.47,1.42
+NAG-BIN-1035,Hanuman Nagar,67,21.10442,79.08603,70,Warning,Metal,48,2026-04-22 20:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.35,0.35
+NAG-BIN-1036,Hanuman Nagar,25,21.10242,79.08379,26,Normal,Metal,27,2026-04-23 01:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.13,0.13
+NAG-BIN-1037,Hanuman Nagar,2,21.1037,79.09601,44,Normal,Mixed,41,2026-04-23 04:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.22,0.61
+NAG-BIN-1038,Hanuman Nagar,34,21.10145,79.08156,78,Warning,Organic,69,2026-04-23 14:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.39,0.97
+NAG-BIN-1039,Hanuman Nagar,50,21.10239,79.09447,79,Warning,Organic,74,2026-04-24 06:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.395,0.63
+NAG-BIN-1040,Hanuman Nagar,13,21.10733,79.08991,33,Normal,Organic,91,2026-04-22 22:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.165,0.16
+NAG-BIN-1041,Hanuman Nagar,69,21.10668,79.09828,29,Normal,Plastic,75,2026-04-23 07:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.145,0.9
+NAG-BIN-1042,Hanuman Nagar,49,21.11294,79.09342,83,Warning,Metal,98,2026-04-22 15:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.415,1.21
+NAG-BIN-1043,Hanuman Nagar,43,21.11064,79.09975,86,Critical,Paper,94,2026-04-23 20:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.43,1.46
+NAG-BIN-1044,Hanuman Nagar,69,21.1183,79.09643,61,Warning,Metal,57,2026-04-24 08:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.305,0.9
+NAG-BIN-1045,Hanuman Nagar,39,21.10327,79.09466,83,Warning,Plastic,87,2026-04-22 15:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.415,0.84
+NAG-BIN-1046,Dhantoli,52,21.12997,79.0822,61,Warning,Mixed,30,2026-04-23 00:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.305,1.33
+NAG-BIN-1047,Dhantoli,54,21.12771,79.08723,70,Warning,Paper,52,2026-04-23 06:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.35,0.84
+NAG-BIN-1048,Dhantoli,14,21.12291,79.08749,63,Warning,Metal,28,2026-04-24 09:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.315,1.14
+NAG-BIN-1049,Dhantoli,9,21.13884,79.08266,96,Critical,Mixed,74,2026-04-23 20:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.48,0.96
+NAG-BIN-1050,Dhantoli,14,21.12454,79.07239,37,Normal,Paper,95,2026-04-23 20:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.185,1.14
+NAG-BIN-1051,Dhantoli,60,21.12221,79.08115,69,Warning,Metal,61,2026-04-24 03:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.345,1.12
+NAG-BIN-1052,Dhantoli,70,21.13353,79.08938,95,Critical,Metal,100,2026-04-23 01:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.475,1.16
+NAG-BIN-1053,Dhantoli,48,21.13221,79.07767,44,Normal,Mixed,65,2026-04-23 06:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.22,0.74
+NAG-BIN-1054,Dhantoli,74,21.12096,79.08305,75,Warning,Plastic,56,2026-04-24 07:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.375,0.46
+NAG-BIN-1055,Dhantoli,11,21.12696,79.08681,31,Normal,Mixed,47,2026-04-22 16:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.155,0.16
+NAG-BIN-1056,Dhantoli,66,21.1345,79.08696,58,Normal,Organic,94,2026-04-23 02:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.29,0.41
+NAG-BIN-1057,Dhantoli,27,21.13097,79.08144,63,Warning,Mixed,99,2026-04-23 21:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.315,0.32
+NAG-BIN-1058,Dhantoli,30,21.12208,79.07658,64,Warning,Metal,47,2026-04-23 15:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.32,1.84
+NAG-BIN-1059,Dhantoli,56,21.12686,79.07571,47,Normal,Metal,50,2026-04-24 04:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.235,0.93
+NAG-BIN-1060,Dhantoli,47,21.12614,79.08116,73,Warning,Paper,90,2026-04-23 12:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.365,0.36
+NAG-BIN-1061,Nehru Nagar,50,21.11353,79.10188,47,Normal,Organic,42,2026-04-24 07:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.235,0.63
+NAG-BIN-1062,Nehru Nagar,19,21.12202,79.1068,66,Warning,Plastic,87,2026-04-23 06:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.33,0.8
+NAG-BIN-1063,Nehru Nagar,43,21.12044,79.10045,87,Critical,Mixed,26,2026-04-22 23:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.435,1.46
+NAG-BIN-1064,Nehru Nagar,36,21.12445,79.11026,44,Normal,Organic,29,2026-04-22 11:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.22,0.49
+NAG-BIN-1065,Nehru Nagar,48,21.12597,79.10195,50,Normal,Mixed,60,2026-04-22 20:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.25,0.74
+NAG-BIN-1066,Nehru Nagar,63,21.1103,79.11371,36,Normal,Organic,56,2026-04-23 15:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.18,0.36
+NAG-BIN-1067,Nehru Nagar,63,21.11382,79.10374,14,Normal,Mixed,93,2026-04-22 19:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.07,0.36
+NAG-BIN-1068,Nehru Nagar,57,21.12031,79.11741,23,Normal,Organic,47,2026-04-24 00:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.115,1.06
+NAG-BIN-1069,Nehru Nagar,43,21.11519,79.11562,92,Critical,Plastic,81,2026-04-23 23:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.46,1.46
+NAG-BIN-1070,Nehru Nagar,14,21.12698,79.11502,35,Normal,Paper,74,2026-04-24 09:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.175,1.14
+NAG-BIN-1071,Nehru Nagar,61,21.12029,79.11125,44,Normal,Plastic,97,2026-04-24 09:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.22,0.31
+NAG-BIN-1072,Nehru Nagar,17,21.1295,79.10784,60,Normal,Metal,31,2026-04-22 19:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.3,0.51
+NAG-BIN-1073,Nehru Nagar,7,21.12711,79.10112,43,Normal,Mixed,49,2026-04-23 05:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.215,0.64
+NAG-BIN-1074,Nehru Nagar,52,21.11774,79.10306,56,Normal,Mixed,15,2026-04-24 07:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.28,1.33
+NAG-BIN-1075,Nehru Nagar,60,21.1216,79.10145,38,Normal,Plastic,21,2026-04-22 13:25:45,AG Enviro Infra Projects Pvt. Ltd.,10 Years,2100,0.19,1.12
+NAG-BIN-1076,Gandhibagh,60,21.14997,79.10253,24,Normal,Paper,36,2026-04-23 03:25:45,BVG India Ltd.,10 Years,1950,0.12,1.12
+NAG-BIN-1077,Gandhibagh,5,21.15096,79.09776,85,Warning,Metal,44,2026-04-24 04:25:45,BVG India Ltd.,10 Years,1950,0.425,0.42
+NAG-BIN-1078,Gandhibagh,10,21.14576,79.10008,25,Normal,Mixed,44,2026-04-23 23:25:45,BVG India Ltd.,10 Years,1950,0.125,0.47
+NAG-BIN-1079,Gandhibagh,69,21.14163,79.09658,90,Critical,Mixed,50,2026-04-22 16:25:45,BVG India Ltd.,10 Years,1950,0.45,0.9
+NAG-BIN-1080,Gandhibagh,65,21.14775,79.09158,97,Critical,Metal,88,2026-04-23 16:25:45,BVG India Ltd.,10 Years,1950,0.485,2.14
+NAG-BIN-1081,Gandhibagh,53,21.15883,79.09731,99,Critical,Plastic,72,2026-04-22 15:25:45,BVG India Ltd.,10 Years,1950,0.495,0.69
+NAG-BIN-1082,Gandhibagh,51,21.15244,79.10604,42,Normal,Metal,82,2026-04-23 05:25:45,BVG India Ltd.,10 Years,1950,0.21,0.28
+NAG-BIN-1083,Gandhibagh,3,21.14392,79.10575,53,Normal,Paper,42,2026-04-22 11:25:45,BVG India Ltd.,10 Years,1950,0.265,0.26
+NAG-BIN-1084,Gandhibagh,41,21.14549,79.1015,57,Normal,Plastic,65,2026-04-22 17:25:45,BVG India Ltd.,10 Years,1950,0.285,0.98
+NAG-BIN-1085,Gandhibagh,34,21.15785,79.09137,61,Warning,Organic,93,2026-04-23 23:25:45,BVG India Ltd.,10 Years,1950,0.305,0.97
+NAG-BIN-1086,Gandhibagh,44,21.15822,79.10908,99,Critical,Mixed,92,2026-04-23 13:25:45,BVG India Ltd.,10 Years,1950,0.495,1.16
+NAG-BIN-1087,Gandhibagh,44,21.15345,79.10332,85,Warning,Plastic,73,2026-04-24 03:25:45,BVG India Ltd.,10 Years,1950,0.425,1.16
+NAG-BIN-1088,Gandhibagh,52,21.14702,79.10472,84,Warning,Mixed,48,2026-04-23 23:25:45,BVG India Ltd.,10 Years,1950,0.42,1.33
+NAG-BIN-1089,Gandhibagh,62,21.14705,79.09293,62,Warning,Paper,80,2026-04-23 22:25:45,BVG India Ltd.,10 Years,1950,0.31,1.07
+NAG-BIN-1090,Gandhibagh,24,21.14316,79.09561,81,Warning,Plastic,96,2026-04-22 22:25:45,BVG India Ltd.,10 Years,1950,0.405,0.4
+NAG-BIN-1091,Satranjipura,7,21.15124,79.10484,67,Warning,Metal,45,2026-04-23 07:25:45,BVG India Ltd.,10 Years,1950,0.335,0.64
+NAG-BIN-1092,Satranjipura,62,21.16299,79.11119,67,Warning,Metal,80,2026-04-24 03:25:45,BVG India Ltd.,10 Years,1950,0.335,1.07
+NAG-BIN-1093,Satranjipura,43,21.16687,79.10606,27,Normal,Paper,26,2026-04-23 01:25:45,BVG India Ltd.,10 Years,1950,0.135,1.46
+NAG-BIN-1094,Satranjipura,57,21.15048,79.11578,90,Critical,Plastic,27,2026-04-24 04:25:45,BVG India Ltd.,10 Years,1950,0.45,1.06
+NAG-BIN-1095,Satranjipura,4,21.16125,79.1119,60,Normal,Paper,65,2026-04-22 14:25:45,BVG India Ltd.,10 Years,1950,0.3,1.39
+NAG-BIN-1096,Satranjipura,65,21.16064,79.11198,28,Normal,Plastic,86,2026-04-22 16:25:45,BVG India Ltd.,10 Years,1950,0.14,2.14
+NAG-BIN-1097,Satranjipura,4,21.15691,79.10881,82,Warning,Paper,40,2026-04-22 18:25:45,BVG India Ltd.,10 Years,1950,0.41,1.39
+NAG-BIN-1098,Satranjipura,28,21.15987,79.11098,26,Normal,Plastic,94,2026-04-23 09:25:45,BVG India Ltd.,10 Years,1950,0.13,0.34
+NAG-BIN-1099,Satranjipura,1,21.15489,79.10094,97,Critical,Metal,21,2026-04-22 12:25:45,BVG India Ltd.,10 Years,1950,0.485,1.42
+NAG-BIN-1100,Satranjipura,30,21.15256,79.10293,100,Critical,Mixed,76,2026-04-23 11:25:45,BVG India Ltd.,10 Years,1950,0.5,1.84
+NAG-BIN-1101,Satranjipura,65,21.16586,79.10375,82,Warning,Plastic,17,2026-04-22 23:25:45,BVG India Ltd.,10 Years,1950,0.41,2.14
+NAG-BIN-1102,Satranjipura,30,21.16489,79.11233,91,Critical,Mixed,28,2026-04-23 21:25:45,BVG India Ltd.,10 Years,1950,0.455,1.84
+NAG-BIN-1103,Satranjipura,55,21.15971,79.11892,43,Normal,Mixed,19,2026-04-23 01:25:45,BVG India Ltd.,10 Years,1950,0.215,0.22
+NAG-BIN-1104,Satranjipura,49,21.16288,79.11051,51,Normal,Paper,72,2026-04-23 05:25:45,BVG India Ltd.,10 Years,1950,0.255,1.21
+NAG-BIN-1105,Satranjipura,33,21.15546,79.11143,27,Normal,Metal,18,2026-04-24 04:25:45,BVG India Ltd.,10 Years,1950,0.135,1.05
+NAG-BIN-1106,Lakadganj,37,21.1516,79.12832,43,Normal,Mixed,77,2026-04-23 13:25:45,BVG India Ltd.,10 Years,1950,0.215,0.3
+NAG-BIN-1107,Lakadganj,49,21.14285,79.12607,12,Normal,Mixed,97,2026-04-23 01:25:45,BVG India Ltd.,10 Years,1950,0.06,1.21
+NAG-BIN-1108,Lakadganj,19,21.1423,79.13843,83,Warning,Mixed,76,2026-04-24 02:25:45,BVG India Ltd.,10 Years,1950,0.415,0.8
+NAG-BIN-1109,Lakadganj,15,21.15908,79.13021,31,Normal,Metal,43,2026-04-24 06:25:45,BVG India Ltd.,10 Years,1950,0.155,0.16
+NAG-BIN-1110,Lakadganj,12,21.15288,79.13872,88,Critical,Organic,72,2026-04-23 03:25:45,BVG India Ltd.,10 Years,1950,0.44,0.44
+NAG-BIN-1111,Lakadganj,9,21.14144,79.12222,52,Normal,Organic,23,2026-04-22 19:25:45,BVG India Ltd.,10 Years,1950,0.26,0.96
+NAG-BIN-1112,Lakadganj,57,21.14004,79.12977,17,Normal,Plastic,78,2026-04-24 09:25:45,BVG India Ltd.,10 Years,1950,0.085,1.06
+NAG-BIN-1113,Lakadganj,35,21.14489,79.13579,39,Normal,Mixed,100,2026-04-23 22:25:45,BVG India Ltd.,10 Years,1950,0.195,0.94
+NAG-BIN-1114,Lakadganj,68,21.1439,79.12716,47,Normal,Metal,62,2026-04-24 08:25:45,BVG India Ltd.,10 Years,1950,0.235,0.24
+NAG-BIN-1115,Lakadganj,57,21.15006,79.12994,28,Normal,Plastic,35,2026-04-23 04:25:45,BVG India Ltd.,10 Years,1950,0.14,1.06
+NAG-BIN-1116,Lakadganj,51,21.14288,79.13557,15,Normal,Mixed,80,2026-04-22 15:25:45,BVG India Ltd.,10 Years,1950,0.075,0.28
+NAG-BIN-1117,Lakadganj,65,21.15256,79.13969,65,Warning,Metal,23,2026-04-23 07:25:45,BVG India Ltd.,10 Years,1950,0.325,2.14
+NAG-BIN-1118,Lakadganj,17,21.15827,79.13793,42,Normal,Plastic,63,2026-04-22 18:25:45,BVG India Ltd.,10 Years,1950,0.21,0.51
+NAG-BIN-1119,Lakadganj,14,21.15648,79.1294,44,Normal,Paper,28,2026-04-24 01:25:45,BVG India Ltd.,10 Years,1950,0.22,1.14
+NAG-BIN-1120,Lakadganj,34,21.14407,79.1239,55,Normal,Mixed,69,2026-04-22 14:25:45,BVG India Ltd.,10 Years,1950,0.275,0.97
+NAG-BIN-1121,Ashinagar,2,21.18117,79.11397,49,Normal,Plastic,77,2026-04-23 00:25:45,BVG India Ltd.,10 Years,1950,0.245,0.61
+NAG-BIN-1122,Ashinagar,4,21.17465,79.11008,64,Warning,Mixed,86,2026-04-24 05:25:45,BVG India Ltd.,10 Years,1950,0.32,1.39
+NAG-BIN-1123,Ashinagar,63,21.18452,79.11869,21,Normal,Metal,49,2026-04-24 07:25:45,BVG India Ltd.,10 Years,1950,0.105,0.36
+NAG-BIN-1124,Ashinagar,36,21.17597,79.11306,54,Normal,Organic,58,2026-04-23 03:25:45,BVG India Ltd.,10 Years,1950,0.27,0.49
+NAG-BIN-1125,Ashinagar,58,21.17579,79.11565,73,Warning,Metal,75,2026-04-24 00:25:45,BVG India Ltd.,10 Years,1950,0.365,0.78
+NAG-BIN-1126,Ashinagar,70,21.18703,79.11146,97,Critical,Organic,43,2026-04-24 07:25:45,BVG India Ltd.,10 Years,1950,0.485,1.16
+NAG-BIN-1127,Ashinagar,62,21.17874,79.10208,67,Warning,Paper,69,2026-04-22 11:25:45,BVG India Ltd.,10 Years,1950,0.335,1.07
+NAG-BIN-1128,Ashinagar,7,21.18421,79.11076,19,Normal,Plastic,37,2026-04-23 18:25:45,BVG India Ltd.,10 Years,1950,0.095,0.64
+NAG-BIN-1129,Ashinagar,9,21.18865,79.11635,43,Normal,Organic,73,2026-04-23 09:25:45,BVG India Ltd.,10 Years,1950,0.215,0.96
+NAG-BIN-1130,Ashinagar,58,21.18371,79.10659,15,Normal,Plastic,75,2026-04-23 22:25:45,BVG India Ltd.,10 Years,1950,0.075,0.78
+NAG-BIN-1131,Ashinagar,41,21.17871,79.11909,93,Critical,Mixed,96,2026-04-23 10:25:45,BVG India Ltd.,10 Years,1950,0.465,0.98
+NAG-BIN-1132,Ashinagar,35,21.17648,79.1093,81,Warning,Organic,36,2026-04-22 20:25:45,BVG India Ltd.,10 Years,1950,0.405,0.94
+NAG-BIN-1133,Ashinagar,58,21.18881,79.1128,67,Warning,Plastic,57,2026-04-24 03:25:45,BVG India Ltd.,10 Years,1950,0.335,0.78
+NAG-BIN-1134,Ashinagar,8,21.18208,79.10862,58,Normal,Metal,51,2026-04-23 18:25:45,BVG India Ltd.,10 Years,1950,0.29,0.29
+NAG-BIN-1135,Ashinagar,72,21.18156,79.10355,23,Normal,Mixed,59,2026-04-22 11:25:45,BVG India Ltd.,10 Years,1950,0.115,0.12
+NAG-BIN-1136,Mangalwari,10,21.17793,79.0668,69,Warning,Mixed,74,2026-04-23 08:25:45,BVG India Ltd.,10 Years,1950,0.345,0.47
+NAG-BIN-1137,Mangalwari,22,21.17068,79.07419,51,Normal,Organic,15,2026-04-24 09:25:45,BVG India Ltd.,10 Years,1950,0.255,0.26
+NAG-BIN-1138,Mangalwari,41,21.16911,79.06232,45,Normal,Plastic,48,2026-04-24 01:25:45,BVG India Ltd.,10 Years,1950,0.225,0.98
+NAG-BIN-1139,Mangalwari,4,21.17732,79.07481,72,Warning,Metal,18,2026-04-23 00:25:45,BVG India Ltd.,10 Years,1950,0.36,1.39
+NAG-BIN-1140,Mangalwari,65,21.17342,79.07671,89,Critical,Paper,63,2026-04-24 08:25:45,BVG India Ltd.,10 Years,1950,0.445,2.14
+NAG-BIN-1141,Mangalwari,54,21.17631,79.06476,98,Critical,Paper,42,2026-04-24 07:25:45,BVG India Ltd.,10 Years,1950,0.49,0.84
+NAG-BIN-1142,Mangalwari,31,21.16568,79.07231,45,Normal,Paper,75,2026-04-23 02:25:45,BVG India Ltd.,10 Years,1950,0.225,0.38
+NAG-BIN-1143,Mangalwari,57,21.16181,79.06338,53,Normal,Mixed,53,2026-04-23 01:25:45,BVG India Ltd.,10 Years,1950,0.265,1.06
+NAG-BIN-1144,Mangalwari,60,21.17688,79.07529,42,Normal,Metal,75,2026-04-23 05:25:45,BVG India Ltd.,10 Years,1950,0.21,1.12
+NAG-BIN-1145,Mangalwari,30,21.17709,79.07237,28,Normal,Mixed,24,2026-04-24 03:25:45,BVG India Ltd.,10 Years,1950,0.14,1.84
+NAG-BIN-1146,Mangalwari,2,21.16968,79.06706,29,Normal,Paper,77,2026-04-23 15:25:45,BVG India Ltd.,10 Years,1950,0.145,0.61
+NAG-BIN-1147,Mangalwari,37,21.17009,79.06139,18,Normal,Paper,81,2026-04-23 04:25:45,BVG India Ltd.,10 Years,1950,0.09,0.3
+NAG-BIN-1148,Mangalwari,39,21.17669,79.07727,84,Warning,Metal,70,2026-04-23 14:25:45,BVG India Ltd.,10 Years,1950,0.42,0.84
+NAG-BIN-1149,Mangalwari,38,21.17789,79.06744,29,Normal,Plastic,78,2026-04-23 11:25:45,BVG India Ltd.,10 Years,1950,0.145,0.33
+NAG-BIN-1150,Mangalwari,71,21.1781,79.07572,90,Critical,Metal,44,2026-04-23 14:25:45,BVG India Ltd.,10 Years,1950,0.45,0.78
