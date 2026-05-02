@@ -2,6 +2,7 @@ import { useMemo, useState } from "react";
 import { Area, AreaChart, Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import { Activity, AlertTriangle, BarChart3, Battery, Clock3, IndianRupee, MapPin, Navigation, Recycle, Route, Satellite, Truck } from "lucide-react";
 import { wasteBins, type WasteBinRecord } from "@/data/wasteBins";
+import ChatBot from "@/components/ChatBot";
 
 const tabs = [
   { id: "predict", label: "Prediction", icon: BarChart3 },
@@ -175,6 +176,7 @@ const Index = () => {
           </div>
         </div>
       </section>
+      <ChatBot />
     </main>
   );
 };
